@@ -26,8 +26,7 @@
           "_id": "63342e48bdce0a96bddf81f2",
           "name": "Food",
           "isSelected": true,
-          "icon": "/uploads/appIcons/Business.png",
-          
+          "icon": "/uploads/appIcons/Business.png"
         },
         {
           "_id": "6231d4007967a5541bcc446a",
