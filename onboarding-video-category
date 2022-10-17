@@ -10,7 +10,8 @@
 			{
 				"id": "en",
 				"language": "English",
-				"elanguage": "English"
+				"elanguage": "English",
+				"isSelected": true
 			}
 		],
 		"categories": [{
