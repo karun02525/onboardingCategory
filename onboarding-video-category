@@ -12,6 +12,12 @@
 				"language": "English",
 				"elanguage": "English",
 				"isSelected": true
+			},
+			{
+				"id": "mr",
+				"language": "मराठी",
+				"elanguage": "Marathi",
+				"isSelected": true
 			}
 		],
 		"categories": [{
@@ -29,7 +35,19 @@
 			{
 				"_id": "6231d4007967a5541bcc446a",
 				"name": "News",
+				"isSelected": false,
+				"icon": "/uploads/appIcons/10295.png"
+			},
+			{
+				"_id": "6231d4007967a5541bcc4468",
+				"name": "Travel",
 				"isSelected": true,
+				"icon": "/uploads/appIcons/9625a226-210b-4607-8136-b8ae59d75199-image_1250-5.png"
+			},
+			{
+				"_id": "63342f39bdce0a96bde0213b",
+				"name": "Music",
+				"isSelected": false,
 				"icon": "/uploads/appIcons/10295.png"
 			}
 		]
