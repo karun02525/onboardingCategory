@@ -11,14 +11,27 @@
 				"id": "en",
 				"language": "English",
 				"elanguage": "English",
-				"isSelected": true
+				"isSelected": false
 			},
 			{
 				"id": "mr",
 				"language": "मराठी",
 				"elanguage": "Marathi",
 				"isSelected": true
+			},
+			{
+				"id": "mr",
+				"language": "भोजपुरी",
+				"elanguage": "Bhojpuri",
+				"isSelected": false
+			},
+			{
+				"id": "te",
+				"language": "తెలుగు",
+				"elanguage": "Telugu",
+				"isSelected": true
 			}
+			
 		],
 		"categories": [{
 				"_id": "63342db6bdce0a96bddf25c7",
