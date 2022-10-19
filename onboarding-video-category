@@ -19,13 +19,13 @@
           "id": "bn-IN",
           "language": "বাংলা",
           "elanguage": "Bengali",
-          "isSelected": true
+          "isSelected": false
         },
         {
           "id": "ta-IN",
           "language": "தமிழ்",
           "elanguage": "Tamil",
-          "isSelected": true
+          "isSelected": false
         },
         {
           "id": "gu-IN",
@@ -37,37 +37,37 @@
           "id": "kn-IN",
           "language": "ಕನ್ನಡ",
           "elanguage": "Kannada",
-          "isSelected": true
+          "isSelected": false
         },
         {
           "id": "mr-IN",
           "language": "मराठी",
           "elanguage": "Marathi",
-          "isSelected": true
+          "isSelected": false
         },
         {
           "id": "te-IN",
           "language": "తెలుగు",
           "elanguage": "Telugu",
-          "isSelected": true
+          "isSelected": false
         },
         {
           "id": "or-IN",
           "language": "ଓଡିଆ",
           "elanguage": "Odia",
-          "isSelected": true
+          "isSelected": false
         },
         {
           "id": "ml-IN",
           "language": "മലയാളം",
           "elanguage": "Malayalam",
-          "isSelected": true
+          "isSelected": false
         },
         {
           "id": "pa-IN",
           "language": "ਪੰਜਾਬੀ",
           "elanguage": "Punjabi",
-          "isSelected": true
+          "isSelected": false
         },
         {
           "id": "ml-IN",
@@ -79,7 +79,7 @@
           "id": "as-IN",
           "language": "অসমীয়া",
           "elanguage": "Assamese",
-          "isSelected": true
+          "isSelected": false
         },
         {
           "id": "raj",
@@ -91,13 +91,13 @@
           "id": "id",
           "language": "Bahasa Indonesia",
           "elanguage": "Indonesian",
-          "isSelected": true
+          "isSelected": false
         },
         {
           "id": "tur",
           "language": "Türkçe",
           "elanguage": "Turkish",
-          "isSelected": true
+          "isSelected": false
         }
       ],
       "categories": [
