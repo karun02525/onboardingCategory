@@ -16,67 +16,67 @@
           "isSelected": false
         },
         {
-          "id": "bn-IN",
+          "id": "bn",
           "language": "বাংলা",
           "elanguage": "Bengali",
           "isSelected": false
         },
         {
-          "id": "ta-IN",
+          "id": "ta",
           "language": "தமிழ்",
           "elanguage": "Tamil",
           "isSelected": false
         },
         {
-          "id": "gu-IN",
+          "id": "gu",
           "language": "ગુજરાતી",
           "elanguage": "Gujarati",
           "isSelected": false
         },
         {
-          "id": "kn-IN",
+          "id": "kn",
           "language": "ಕನ್ನಡ",
           "elanguage": "Kannada",
           "isSelected": false
         },
         {
-          "id": "mr-IN",
+          "id": "mr",
           "language": "मराठी",
           "elanguage": "Marathi",
           "isSelected": false
         },
         {
-          "id": "te-IN",
+          "id": "te",
           "language": "తెలుగు",
           "elanguage": "Telugu",
           "isSelected": false
         },
         {
-          "id": "or-IN",
+          "id": "or",
           "language": "ଓଡିଆ",
           "elanguage": "Odia",
           "isSelected": false
         },
         {
-          "id": "ml-IN",
+          "id": "ml",
           "language": "മലയാളം",
           "elanguage": "Malayalam",
           "isSelected": false
         },
         {
-          "id": "pa-IN",
+          "id": "pa",
           "language": "ਪੰਜਾਬੀ",
           "elanguage": "Punjabi",
           "isSelected": false
         },
         {
-          "id": "ml-IN",
+          "id": "ml",
           "language": "भोजपुरी",
           "elanguage": "Bhojpuri",
           "isSelected": false
         },
         {
-          "id": "as-IN",
+          "id": "as",
           "language": "অসমীয়া",
           "elanguage": "Assamese",
           "isSelected": false
