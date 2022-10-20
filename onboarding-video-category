@@ -7,7 +7,7 @@
           "id": "hi",
           "language": "हिन्दी",
           "elanguage": "Hindi",
-          "isSelected": true
+          "isSelected": false
         },
         {
           "id": "en",
@@ -73,7 +73,7 @@
           "id": "ml-IN",
           "language": "भोजपुरी",
           "elanguage": "Bhojpuri",
-          "isSelected": true
+          "isSelected": false
         },
         {
           "id": "as-IN",
@@ -91,7 +91,7 @@
           "id": "id",
           "language": "Bahasa Indonesia",
           "elanguage": "Indonesian",
-          "isSelected": false
+          "isSelected": true
         },
         {
           "id": "tur",
